@@ -1,6 +1,6 @@
 # State Machine - 2014/04/16
 
-A state machine is good for modeling things that move in and out of states.
+A state machine is good for modeling things that move in and out of states. For instance a car can go from being `stopped` to being `driving`, or from `driving` to `crashing`.
 
 Today we're going to model my dog Baron. Let's assume Baron is very simple (although in reality he has quite complex feelings and emotions). Baron has a few basic states: sleeping, playing, and eating.
 
