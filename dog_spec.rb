@@ -49,18 +49,4 @@ describe Dog do
   it 'should bark when barking' do
     expect(@baron.bark).to eq("woof")
   end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 end
